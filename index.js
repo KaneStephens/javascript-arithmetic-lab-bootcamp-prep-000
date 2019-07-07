@@ -1,8 +1,10 @@
-
+function add(a, b){
+  return a + b 
+}
 
 
 
 
 function makeInt(n){
-  parseInt(n.toString, 10)
+  parseInt(n, 10)
 }
